@@ -5,8 +5,10 @@ Server.js file that Requires the Express Web Application framework for Node.js
 to listen to port 8888 and serves web page home.html which displays a Responsive Navigation.
 
 ## Usage
-Start the express server via command prompt cd to module folder path and enter this command:
+Start the express server via command prompt
 
-node server.js
+    cd to module folder path and enter this command:
 
-in your browser go to http://localhost:8888/#
+    node server.js
+
+    in your browser go to http://localhost:8888/#
